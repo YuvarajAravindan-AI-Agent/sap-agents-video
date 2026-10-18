@@ -1,0 +1,18 @@
+{
+ "id": "fiori-bright-sap-blue-gold",
+ "description": "Bright SAP Fiori-style demo (2026-10-16, SAP governed agents). 1920x1080 landscape, white/pale-blue canvas, SAP blue shell bar with SAP + Agents chips (white / gold), gold highlights, Noto Sans. Real screenshots with gold callout boxes, swimlane sequence diagrams, BTP container architecture, comparison table. Voice Sulafat. Note: same 16:9 ratio as polar-ink-documentary but a completely different look.",
+ "fingerprint": {
+  "aspect": ["fhd-1920x1080-fiori-shell"],
+  "palette_family": ["sap-blue-gold-on-white-fiori", "fiori-semantic-green-red-orange"],
+  "background": ["pale-blue-white-fiori-canvas", "brand-blue-gradient-banner-with-rings"],
+  "typography": ["noto-sans", "noto-sans-mono"],
+  "camera_motion": ["card-rise-fade-stagger"],
+  "transition": ["horizontal-shell-slide"],
+  "caption_style": ["white-card-blue-accent-subtitle"],
+  "progress_indicator": ["shell-bar-nav-tabs"],
+  "intro_device": ["sap-agents-highlight-chips-banner"],
+  "outro_device": ["founder-profile-tile-end"],
+  "narration_voice": ["tts-sulafat"],
+  "signature_motif": ["real-screenshots-with-gold-callouts", "fiori-swimlane-sequence-diagram", "btp-container-architecture", "conservative-vs-governed-comparison-table"]
+ }
+}
